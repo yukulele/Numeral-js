@@ -1,3 +1,5 @@
+this repository is no longer maintained. You can get an improved version here: https://github.com/foretagsplatsen/numbro.
+
 # [Numeral.js](http://numeraljs.com/)
 
 A javascript library for formatting and manipulating numbers.
